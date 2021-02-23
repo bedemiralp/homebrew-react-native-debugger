@@ -1,4 +1,4 @@
-cask "react-native-debugger" do
+cask "react-native-debugger@0.10" do
   version "0.10.13"
   sha256 "06cab36041548e3213e9bc3b39a87771812075f0276d22795c5d226e7507de0d"
 
